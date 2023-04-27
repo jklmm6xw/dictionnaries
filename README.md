@@ -1,2 +1,2 @@
 # dictionnaries
-balls
+private dictionary repo
