@@ -1,2 +1,2 @@
 # dictionnaries
-private dictionary repo
+m6xw's dictionary repo
