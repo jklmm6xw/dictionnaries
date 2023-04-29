@@ -1,5 +1,6 @@
 
 'ax'emíyaxnem
+'ax'íyaxnem
 'elélema
 'en'á'iva
 'episan
@@ -9,6 +10,7 @@
 'iva'al
 'á'awuwet
 'áchama
+'áchema
 'álwet
 'ámuqa
 'ámuqal
@@ -51,6 +53,8 @@ chaqe
 che'íyaxqal
 cheme'áqyawve
 chemiyk
+chempísive'ah
+chemqálve'a
 cheqal
 chi
 chi'i
@@ -64,7 +68,9 @@ cémiyk
 em
 emem
 gáatu'
+ha
 hem'éxap
+hem'íyaxwen
 hem'íyaxwenap
 heme
 hemhíchiwen
@@ -91,6 +97,7 @@ hemwénivey
 hen'á'avuwet
 hen'á'iva
 hiich'a'
+há
 há'tisqa
 háni
 hány
@@ -220,6 +227,7 @@ náwishmal
 náxa
 náxaluvel
 náxanish
+náxash
 né
 né'
 né'i'
@@ -238,6 +246,7 @@ níyax'i
 níyaxqal
 pa
 pa'
+pe
 pe'
 pe'em'áynem
 pe'emwáwawe'ne
@@ -294,12 +303,14 @@ púlill
 púlinih
 qaháxim
 qahíche'a
+qaméxenanuk
 qamíyaxqal
 qamíyaxqalepa'
 qunpáh
 qunsúplli'
 qunwíchiw
 qunwíh'
+qáqáqáqák
 qáwish
 selekish
 shqal
